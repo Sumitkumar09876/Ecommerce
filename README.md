@@ -1,6 +1,3 @@
-Here's your complete `README.md` file incorporating the additional sections you provided:
-
-```markdown
 # E-Commerce Store (MERN Stack)
 
 ## Description
